@@ -17,7 +17,7 @@ y_train = data['Y']
 x = panda_to_numpy(data, 'X')
 y = data['Y']
 model = Regression(y,x)
-weights = model.train(epochs=90000, a=0.00005, print_loss=False) 
+weights = model.train(epochs=200000, a=0.00005, print_loss=False) 
 prediction = model.predict(8)
 print(prediction)
 
