@@ -42,15 +42,15 @@ which input are the X different attributes from which we want to arrive at a pre
 ### Visualization
 
 Hollywood movies revenue prediction based on production and promotion costs
-![](https://github.com/AGiannoutsos/ai-projects/blob/master/regression/hollywood.png)
+![](https://github.com/AGiannoutsos/ai-projects/blob/master/hollywood.png)
 
 and loss in epochs
 
-![](https://github.com/AGiannoutsos/ai-projects/blob/master/regression/hollywood_loss.png)
+![](https://github.com/AGiannoutsos/ai-projects/blob/master/hollywood_loss.png)
 
 
 Prediction in ppm of bicarbonates based on ph of water
 
-![](https://github.com/AGiannoutsos/ai-projects/blob/master/regression/biocarbonate.png)
+![](https://github.com/AGiannoutsos/ai-projects/blob/master/biocarbonate.png)
 
 
